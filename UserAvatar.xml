@@ -8,7 +8,14 @@
                   <en>Display User Avatar (image/picture) aside preferences/logout</en>
                </short>
                <long>
-                  <en>Display User Avatar (image/picture) aside preferences/logout</en>
+                  <en><![CDATA[
+# User Avatar (GLPI)
+This plugin allow show user image/picture/avatar aside preferences/logout buttons.
+# Installation (EN)
+ * Uncompress the archive to the `<GLPI_ROOT>/plugins/useravatar` directory
+ * Navigate to the Configuration > Plugins page,
+ * Install and activate the plugin.
+]]></en>
                </long>
             </description>
             <homepage>https://github.com/rsobjak/GlpiUserAvatar</homepage>
