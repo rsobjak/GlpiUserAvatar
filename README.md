@@ -1,7 +1,7 @@
 ![User Avatar](icon.png) 
 
 # GlpiUserAvatar
-GLPI UserAvatar Plugin show the User Avatar on all pages
+GLPI UserAvatar Plugin show the User Avatar all pages.  The image is submited on user profile settings.
 
 
 ### Example
