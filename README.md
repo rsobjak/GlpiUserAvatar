@@ -4,5 +4,5 @@
 GLPI UserAvatar Plugin show the User Avatar on all pages
 
 
-###Example
+### Example
 ![User Avatar Example](example.png) 
