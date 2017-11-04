@@ -1,0 +1,49 @@
+  <root>
+            <name>User Avatar</name>
+            <key>useravatar</key>
+            <state>alpha</state>
+            <logo>https://raw.githubusercontent.com/rsobjak/GlpiUserAvatar/master/icon.png</logo>
+            <description>
+               <short>
+                  <en>Display User Avatar (image/picture) aside preferences/logout</en>
+               </short>
+               <long>
+                  <en>Display User Avatar (image/picture) aside preferences/logout</en>
+               </long>
+            </description>
+            <homepage>https://github.com/rsobjak/GlpiUserAvatar</homepage>
+            <download>https://github.com/rsobjak/GlpiUserAvatar/archive/master.zip</download>
+            <issues>https://github.com/rsobjak/GlpiUserAvatar/issues</issues>
+            <readme>https://github.com/rsobjak/GlpiUserAvatar/blob/master/README.md</readme>
+            <authors>
+               <author>Rodrigo Sobjak</author>
+            </authors>
+            <versions>
+               <version>
+                  <num>1.0</num>
+                  <compatibility>0.92</compatibility>
+               </version>
+            </versions>
+            <langs>
+               <lang>en_GB</lang>
+            </langs>
+            <license>GPL v2+</license>
+            <tags>
+               <en>
+                  <tag>photo</tag>
+                  <tag>user</tag>
+                  <tag>avatar</tag>
+                  <tag>image</tag>
+                  <tag>picture</tag>
+               </en>
+               <lang>
+                  <tag>en</tag>
+                  <tag>fr</tag>
+                  <tag>pt</tag>
+                  <tag>pt_BR</tag>
+               </lang>
+            </tags>
+            <screenshots>
+               <screenshot>https://github.com/rsobjak/GlpiUserAvatar/blob/master/example.png?raw=true</screenshot>
+            </screenshots>
+         </root>
